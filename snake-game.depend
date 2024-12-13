@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734019887 source:d:\praktikum\latihan\gameular\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	<fstream>
+
